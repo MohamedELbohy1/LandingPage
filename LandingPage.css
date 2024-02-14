@@ -3,12 +3,11 @@ body{
     flex-direction: column;
     margin: 0;
     min-height: 100vh;
-    min-width: 200vh;
-    padding:10px;
-    
+    min-width: 200vh;    
 }
 .section1{
     background-color: #1f2937;
+    padding-left:10px;
 }
 .header1{
     font-size: 32px;
